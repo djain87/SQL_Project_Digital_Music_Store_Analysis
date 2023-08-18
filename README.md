@@ -1,12 +1,8 @@
 # SQL_Project_Digital_Music_Store_Analysis
-SQL project to analyze online music store data
+# Objective 
+  This project is to analyze the music playlist database with SQL and help the store to understand its business growth by answering simple questions.
 
-Project Objective :
-
-This project is to analyze the music playlist database with SQL and help the store to understand its business growth by answering simple questions.
-
-Anlaysis:
-
+# Task
 1. Who is the senior most employee based on job title?
    
 2. Which countries have the most Invoices?
